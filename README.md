@@ -6,4 +6,4 @@ For further questions, feel free to email me (Pat Laub), I'll be happy to discus
 
 Reference:
 
-[Young Lee](https://statistics.fas.harvard.edu/people/young-lee), [Patrick J. Laub](https://pat-laub.github.io/), [Thomas Taimre](http://researchers.uq.edu.au/researcher/1299), [Hongbiao Zhao](http://hongbiaozhao.weebly.com/), [Jiancang Zhuang](http://bemlar.ism.ac.jp/zhuang/) (2021), *Exact simulation of extrinsic stress-release processes*, Journal of Applied Probability (under review)
+[Young Lee](https://statistics.fas.harvard.edu/people/young-lee), [Patrick J. Laub](https://pat-laub.github.io/), [Thomas Taimre](http://researchers.uq.edu.au/researcher/1299), [Hongbiao Zhao](http://hongbiaozhao.weebly.com/), [Jiancang Zhuang](http://bemlar.ism.ac.jp/zhuang/) (2021), *Exact simulation of extrinsic stress-release processes*, Journal of Applied Probability, to appear in 59(1) in 2022.
